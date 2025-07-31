@@ -21,7 +21,7 @@ I used a Random Forest Classifier trained on cleaned features including:
 - Embarkation port
 
 ## Submission
-Achieved [XX%] accuracy on Kaggle's public leaderboard.
+Achieved [62.67%] accuracy on Kaggle's public leaderboard.
 
 ## Dataset
 Data from [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic/data)
